@@ -1,0 +1,43 @@
+nav ul li {
+    display:inline;
+    padding: 90px;
+}
+nav ul li a{
+text-decoration: none;
+color: white;
+}
+h1{
+    text-align: center;
+}
+header{
+    background-color:black;
+    color: white;
+    padding: 10px;
+}
+#Home{
+     text-align:center ;
+}
+img{
+    border-radius: 50px;
+}
+#Bio{
+    text-align: center;
+}
+#portfolio{
+    text-align: center;
+    padding: 50px;
+    background-color:bisque;
+}
+#skills{
+    text-align: center;
+    display:inline;
+}
+#contact{
+    text-align: center;
+    display: inline;
+}
+footer{
+    text-align: center;
+    background-color:black;
+    color: white;
+}
